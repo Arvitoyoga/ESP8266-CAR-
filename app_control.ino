@@ -71,6 +71,7 @@ void loop() {
   else if (data == "mundur"){Mundur();}
   else if (data == "kanan"){Kanan();}
   else if (data == "kiri"){Kiri();}
+  else if (data == "stop") {Stop();}
   else {Stop();}
 }
 
